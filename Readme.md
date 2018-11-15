@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/Export/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/Export/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/Export/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/Export/MainWindow.xaml.vb))
+<!-- default file list end -->
 # How to export a chart to HTML and MHT
 
 
