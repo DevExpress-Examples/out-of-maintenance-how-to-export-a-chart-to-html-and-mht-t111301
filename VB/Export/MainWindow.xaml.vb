@@ -1,5 +1,4 @@
-﻿Imports Microsoft.VisualBasic
-Imports System.Diagnostics
+﻿Imports System.Diagnostics
 Imports System.IO
 Imports System.Windows
 Imports DevExpress.Xpf.Charts
@@ -9,6 +8,7 @@ Namespace Export
 
 	Partial Public Class MainWindow
 		Inherits Window
+
 		Public Sub New()
 			InitializeComponent()
 		End Sub
